@@ -1,5 +1,5 @@
 # Forecasting-using-Machine-Learning
-Abstract—With continued ocean and atmospheric warming,
+With continued ocean and atmospheric warming,
 sea levels will likely rise for many centuries at higher rates than
 that of the current century. The change in global sea levels is
 linked to two primary factors: thermal expansion caused by
